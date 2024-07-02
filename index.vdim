@@ -1,0 +1,4 @@
+code = 5 + 9 + ( 4 - 6 );
+>>> code;
+newvar = code + 3;
+>>> newvar + code - 6;
